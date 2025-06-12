@@ -1,0 +1,10 @@
+books
+box
+cup
+trash
+laundry
+container
+bottle
+electronics
+toys
+paper
